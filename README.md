@@ -6,5 +6,8 @@ DDoS інструмент з обходом захисту Cloudflare.
 <code>2. cd cfb-nodejs</code><br>
 <code>3. npm install cloudscraper randomstring request</code><br>
 
+<i><code>node cfb.js (сайт http/https) (час в сек.)</code></i>
+
 <h2>Запуск:</h2>
-<code>node cfb.js https://site.ru (час в сек.)</code>
+<code>node cfb.js https://site.ru 120</code>
+

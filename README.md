@@ -4,7 +4,7 @@ DDoS інструмент з обходом захисту Cloudflare.
 <h2>Інсталяція:</h2>
 <code>1. sudo apt install nodejs npm</code><br>
 <code>2. cd cfb-nodejs</code><br>
-<code>3. npm install cloudscraper randomstring request</code><br>
+<code>3. npm install cloudscraper randomstring request</code><br><br>
 
 <i><code>node cfb.js (сайт http/https) (час в сек.)</code></i>
 

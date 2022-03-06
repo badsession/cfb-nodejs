@@ -1,2 +1,4 @@
-# cloudflare-bypass
-DDoS скрипт с обходом Cloudflare.
+# cfb
+DDoS інструмент з обходом захисту Cloudflare.
+
+<h2>Інсталяція:</h2>

@@ -16,7 +16,7 @@ randomByte = function() {
 }
 
 if (process.argv.length <= 2) {
-    console.log("\nCloudflare protection DDoS bypasser.\nBy https://t.me/darkne_abc\n")
+    console.log("\nCloudflare protection DDoS bypasser.\n")
     console.log("Usage: node CFBypass.js <url> <time>");
     console.log("Usage: node CFBypass.js <http(s)://example.com> <60>");
     process.exit(-1);
